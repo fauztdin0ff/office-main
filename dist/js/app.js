@@ -1173,7 +1173,6 @@ document.addEventListener('DOMContentLoaded', () => {
    initOfficeGalleryLightbox();
    initBcPageGalleries();
    initCalendar();
-   initMap();
 });
 
 })();
